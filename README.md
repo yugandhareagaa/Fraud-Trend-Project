@@ -19,7 +19,7 @@ This project demonstrates the use of generative AI techniques to detect financia
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection-ai.git
+   git clone https://github.com/yugandhareagaa/Fraud-Trend-Project.git
    ```
 2. Open the notebook in Google Colab or Jupyter
 3. Train the model using the provided dataset
